@@ -9,22 +9,22 @@ I enjoy building backend systems, self-hosted infrastructure, robotics projects,
 - Robotics and embedded systems
 - DevOps and containerized deployments
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-C • C++ • Go • Python • Java • TypeScript • JavaScript • Bash
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,java,python,ts,js,bash)](https://skillicons.dev)
 
-### Backend
-Flask • Node.js • REST APIs • PostgreSQL 
+### Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,postgres,mysql,redis,sqlite)](https://skillicons.dev)
 
-### DevOps
-Docker • Linux 
-
-### Robotics & Hardware
-ROS • Microcontrollers 
+### DevOps & Linux
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,git,github)](https://skillicons.dev)
 
 ### Frontend
-React • Astro • TailwindCSS • Bootstrap
+[![My Skills](https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap)](https://skillicons.dev)
+
+### Robotics & Tools
+[![My Skills](https://skillicons.dev/icons?i=ros,vscode)](https://skillicons.dev)
 
 ## 📈 GitHub Statistics
 
