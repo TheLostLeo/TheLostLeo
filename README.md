@@ -15,16 +15,16 @@ I enjoy building backend systems, self-hosted infrastructure, robotics projects,
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,java,python,ts,js,bash)](https://skillicons.dev)
 
 ### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,postgres,mysql,redis,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,postgres)](https://skillicons.dev)
 
 ### DevOps & Linux
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Robotics & Tools
-[![My Skills](https://skillicons.dev/icons?i=ros,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
 
 ## 📈 GitHub Statistics
 
