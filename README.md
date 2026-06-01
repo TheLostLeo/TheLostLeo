@@ -26,12 +26,6 @@ I enjoy building backend systems, self-hosted infrastructure, robotics projects,
 ### Robotics & Tools
 [![My Skills](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thelostleo&show_icons=true&theme=transparent"/>
-</p>
-
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/joelanto1211
