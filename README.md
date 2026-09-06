@@ -56,16 +56,15 @@
 
 ---
 
-### 📊 GitHub Activity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TheLostLeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TheLostLeo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheLostLeo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheLostLeo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TheLostLeo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🛠️ Featured Projects
-
-* **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** — Brief summary of what it does, architecture decisions, and technologies used (e.g., *ROS 2 autonomous navigation node using C++ and Python*).
-* **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)** — Brief description of your deployment (e.g., *Self-hosted Dockerized backend stack with automated backups*).
