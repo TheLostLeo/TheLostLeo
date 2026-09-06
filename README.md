@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- Local Custom Banner -->
-  <img src="./assets/banner.png" width="100%" alt="Header Banner" />
+  <img src="./assets/banner.jpeg" width="100%" alt="Header Banner" />
 
   <br/><br/>
 
   <!-- Shields.io Badges -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joelanto1211)
   [![Email](https://img.shields.io/badge/Email-thelostleo224@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thelostleo224@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheLostLeo)
 
   <br/><br/>
 
